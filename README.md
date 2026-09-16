@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishitsrinivas.com">
-    <img src="./assets/board.png" alt="Rishit Srinivas — view my portfolio and reach out" width="880" />
+    <img src="./assets/board.svg" alt="Rishit Srinivas — view my portfolio and reach out" width="880" />
   </a>
 </div>
 

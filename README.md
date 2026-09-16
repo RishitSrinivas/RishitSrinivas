@@ -5,6 +5,10 @@
 </div>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,bash,py,java,ruby,cpp,docker,github,nextjs,mysql,swift,react,nodejs,postgres,fastapi,supabase,npm&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
   <a href="https://github.com/RishitSrinivas"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://rishitsrinivas.com"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=c9a86c" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/rishit-srinivas"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
